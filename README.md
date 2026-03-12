@@ -1,5 +1,6 @@
 #  Global Corporate Ecosystem Analysis — Power BI Dashboard
 
+
 ##  Project Overview
 
 This project presents an interactive **Power BI dashboard** that analyzes the **Global Corporate Ecosystem** by comparing **IT and Non-IT companies** across multiple performance indicators such as ecosystem strength, leadership resilience, workforce risk, and market competitiveness.
