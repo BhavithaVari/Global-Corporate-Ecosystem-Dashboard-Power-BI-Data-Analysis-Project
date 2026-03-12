@@ -1,5 +1,9 @@
 #  Global Corporate Ecosystem Analysis — Power BI Dashboard
+While working in a Non-IT job, I was always curious about the differences between IT companies and Non-IT companies in terms of performance, workforce dynamics, and business growth. This curiosity motivated me to explore how these industries differ across various factors such as employee attrition, leadership strength, ecosystem maturity, and market competitiveness.
 
+To understand these differences, I developed this Power BI dashboard project that analyzes global companies from both IT and Non-IT sectors. The dashboard provides insights into workforce risk, corporate ecosystem strength, leadership resilience, and overall company performance across multiple countries.
+
+This project helped me apply data analysis, business intelligence, and visualization techniques to transform raw corporate data into meaningful insights and comparisons between industries.
 ##  Project Overview
 
 This project presents an interactive **Power BI dashboard** that analyzes the **Global Corporate Ecosystem** by comparing **IT and Non-IT companies** across multiple performance indicators such as ecosystem strength, leadership resilience, workforce risk, and market competitiveness.
