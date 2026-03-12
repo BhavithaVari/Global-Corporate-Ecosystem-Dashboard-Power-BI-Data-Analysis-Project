@@ -119,9 +119,10 @@ Global-Corporate-Ecosystem-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-*(Add screenshots of your dashboard here after uploading to GitHub)*
+<img width="643" height="388" alt="image" src="https://github.com/user-attachments/assets/b23d78ec-87c6-46a2-ae61-d6fad8a994ca" />
+
 
 ---
 
